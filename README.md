@@ -1,8 +1,8 @@
-### Olá! Meu nome é <em>Paulo Henrique</em>, tudo bem?
+### Olá! Meu nome é <em><strong>Paulo Henrique</em></strong>, tudo bem?
 
 
 
-- ✈ Atualmente sou Consultor de Viagens na CVC Brasil e estou em fase de migração de área;
+- ✈ Atualmente sou Consultor de Viagens na CVC Brasil e estou em fase de migração para a área de tecnologia;
 - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
 - ⌨ Adquirindo conhecimentos em desenvolvimento web;
 - 👨‍🎓 Pretendo me tornar um Full Stack Developer;
@@ -25,6 +25,15 @@
 </div>
 
 <hr />
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/paulohenrique3140/" target="_blank"><img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://www.instagram.com/paulo.henrique3140/" target="_blank"><img height="35em" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+  <a href="https://www.facebook.com/paulo.henrique3140/" target="_blank"><img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+  <a href="https://wa.me/5511934069298" target="_blank"><img height="35em" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504957.png?token=exp=1651730337~hmac=acb2fda951972e90f3371f28d97bf32a"></a>
+  <a href="mailto:paulohenrique3140@outlook.com" target="_blank"><img height="35em" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
+                                                             
+</div>
+
 
 
 
