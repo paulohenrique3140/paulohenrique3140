@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/paulohenrique3140/" target="_blank"><img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="https://www.instagram.com/paulo.henrique3140/" target="_blank"><img height="35em" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
   <a href="https://www.facebook.com/paulo.henrique3140/" target="_blank"><img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
-  <a href="https://wa.me/5511934069298" target="_blank"><img height="35em" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504957.png?token=exp=1651730337~hmac=acb2fda951972e90f3371f28d97bf32a"></a>
+  <a href="https://wa.me/5511934069298" target="_blank"><img height="35em" src="https://i.pinimg.com/736x/37/09/ae/3709ae31ee81212a6857962776b5c134.jpg"></a>
   <a href="mailto:paulohenrique3140@outlook.com" target="_blank"><img height="35em" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
                                                              
 </div>
