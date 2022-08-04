@@ -2,7 +2,7 @@
 
 
 
-- ✈ Atualmente sou Consultor de Viagens e estou em fase de migração para a área de tecnologia;
+- ✈ Atuei durante 10 anos no setor de Turismo e estou em fase de migração de carreira para tecnologia;
 - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
 - ⌨ Membro ativo do programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a gigante IBM);
 - 👨‍🎓 Adquirindo conhecimentos em:
