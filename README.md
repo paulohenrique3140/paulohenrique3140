@@ -4,14 +4,13 @@
 
 - ✈ Atualmente sou Consultor de Viagens e estou em fase de migração para a área de tecnologia;
 - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
-- ⌨ Adquirindo conhecimentos em desenvolvimento web;
-- 👨‍🎓 Pretendo me tornar um Full Stack Developer;
-- 🖱 Módulos que planejo desenvolver nos próximos meses:
-  - ✔HTML5;  ✔CSS3;  ✔Javascript;  ✔Typescript
+- ⌨ Membro ativo do programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a gigante IBM);
+- 👨‍🎓 Adquirindo conhecimentos em:
+  - ✔HTML5;  ✔CSS3;  ✔Javascript;  ✔Java; ✔Orientação à Objetos;
   - ✔Metodologias Ágeis;  ✔Boas Práticas; ✔Soft Skills;
   - ✔Estrutura de Dados;  ✔Lógica de Programação;
-  - ✔Git; ✔React; ✔GraphQL✔;
-  - ✔Node.JS - HTTP GET e HTTP Host;✔ Rest API;
+  - ✔Git; ✔Estrutura de Dados; API com Spiring Boot;
+  - ✔Cultura DevOps; ✔Cloud Computing; ✔Conceitos básicos de AWS;
   
 <br>
 <br>
