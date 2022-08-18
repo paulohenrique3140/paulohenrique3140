@@ -1,15 +1,13 @@
 ### Olá! Meu nome é <em><strong>Paulo Henrique</em></strong>, tudo bem?
 
 
-
-- ✈ Atuei durante 10 anos no setor de Turismo e estou em fase de migração de carreira para tecnologia;
-- 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
-- ⌨ Membro ativo do programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a gigante IBM);
-- 👨‍🎓 Adquirindo conhecimentos em:
+  - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
+  - ⌨ Membro ativo do programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a gigante IBM);
+  - 👨‍🎓 Adquirindo conhecimentos em:
   - ✔HTML5;  ✔CSS3;  ✔Javascript;  ✔Java; ✔Orientação à Objetos;
   - ✔Metodologias Ágeis;  ✔Boas Práticas; ✔Soft Skills;
   - ✔Estrutura de Dados;  ✔Lógica de Programação;
-  - ✔Git; ✔Estrutura de Dados; API com Spiring Boot;
+  - ✔Git e Github; ✔Estrutura de Dados; API com Spiring Boot;
   - ✔Cultura DevOps; ✔Cloud Computing; ✔Conceitos básicos de AWS;
   
 <br>
