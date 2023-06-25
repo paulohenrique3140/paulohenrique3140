@@ -24,7 +24,6 @@
 <hr />
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/paulohenrique3140/" target="_blank"><img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  
   <a href="https://wa.me/5511934069298" target="_blank"><img height="35em" src="https://cdn.pixabay.com/photo/2015/08/03/13/58/soon-873316_1280.png"></a>
   <a href="mailto:paulohenrique3140@outlook.com" target="_blank"><img height="35em" src="https://cdn-icons-png.flaticon.com/512/552/552486.png"></a>
                                                              
