@@ -2,7 +2,7 @@
 
 
   - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
-  - ⌨ Membro ativo do programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a gigante IBM);
+  - ⌨ Certificado no Programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a gigante IBM);
   - 👨‍🎓 Adquirindo conhecimentos em:
   - ✔Java; ✔Spring Boot; ✔MySQL; ✔API Rest; ✔Orientação à Objetos;
   - ✔Metodologias Ágeis;  ✔Boas Práticas; ✔Soft Skills;   
