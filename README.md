@@ -2,7 +2,7 @@
 
 
   - 👨‍💻 Analista de Customer Service;
-  - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
+  - 💻 Cursando Ciências da Computação;
   - ⌨ Certificado no Programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a IBM);
   - 👨‍🎓 Adquirindo conhecimentos em:
   - ✔C#; ✔.NET; ✔ASP.NET; ✔Sql Server; ✔API Rest e SOAP;
