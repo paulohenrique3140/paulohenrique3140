@@ -1,7 +1,7 @@
 ### Olá! Meu nome é <em><strong>Paulo Henrique</em></strong>, tudo bem?
 
 
-  - 💻 Analista de Customer Service na ARGO Solutions;
+  - 👨‍💻 Analista de Customer Service;
   - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
   - ⌨ Certificado no Programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a IBM);
   - 👨‍🎓 Adquirindo conhecimentos em:
