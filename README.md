@@ -1,14 +1,15 @@
 ### Olá! Meu nome é <em><strong>Paulo Henrique</em></strong>, tudo bem?
 
 
+  - 💻 Analista de Customer Service na ARGO Solutions;
   - 💻 Cursando Ciências da Computação na Universidade Estácio de Sá;
-  - ⌨ Certificado no Programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a gigante IBM);
+  - ⌨ Certificado no Programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a IBM);
   - 👨‍🎓 Adquirindo conhecimentos em:
-  - ✔Java; ✔Spring Boot; ✔MySQL; ✔API Rest; ✔Orientação à Objetos;
-  - ✔Metodologias Ágeis;  ✔Boas Práticas; ✔Soft Skills;   
-  - ✔Estrutura de Dados;  ✔Lógica de Programação;
-  - ✔Git e Github; ✔HTML5;  ✔CSS3;  ✔Javascript;
-  - ✔DevOps; ✔Cloud Computing; ✔Conceitos básicos de AWS;
+  - ✔C#; ✔.NET; ✔ASP.NET; ✔Sql Server; ✔API Rest e SOAP;
+  - ✔Java; ✔Spring Boot; ✔MySQL; ✔Kafka; ✔ELK
+  - ✔Metodologias Ágeis; ✔Soft Skills;   
+  - ✔Estrutura de Dados; ✔Lógica de Programação;
+  - ✔Git e Github; 
   
 <br>
 <br>
@@ -17,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenrique3140&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block">
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img height="35em" src="https://icons8.com/icon/45490/c-sharp-logo-2" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>
