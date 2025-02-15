@@ -1,7 +1,7 @@
 ### Olá! Meu nome é <em><strong>Paulo Henrique</em></strong>, tudo bem?
 
 
-  - 👨‍💻 Analista de Customer Service;
+  - 👨‍💻 Customer Service Analyst;
   - 💻 Cursando Ciências da Computação;
   - ⌨ Certificado no Programa de Desenvolvimento Java - "If black, then code" (Gama Academy em parceria com a IBM);
   - 👨‍🎓 Adquirindo conhecimentos em:
